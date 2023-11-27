@@ -3,26 +3,81 @@ body {
   font-weight: 500;
 }
 
-#demo .minibox {
-  width: 100px;
-  height: 100px;
-  border: 1px solid red;
+section {
+  padding: 50px 0;
 }
-@media screen and (min-width: 576px) {
-  #demo .minibox {
-    width: 200px;
-    border: 5px solid blue;
-  }
+
+#demo .box {
+  position: relative;
 }
-@media screen and (min-width: 768px) {
-  #demo .minibox {
-    width: 350px;
-    border: 7px solid orange;
-  }
+#demo .box .minibox {
+  border: 1px solid #3491c0;
+  width: 140px;
+  height: 140px;
+  color: white;
+  background-color: #3491c0;
+  padding: 10px;
+  margin: 10px 0;
 }
-@media screen and (min-width: 992px) {
-  #demo .minibox {
-    width: 500px;
-    border: 10px solid violet;
-  }
+#demo .box .flying {
+  position: absolute;
+  left: 190px;
+}
+
+#demo2 .box {
+  position: relative;
+}
+#demo2 .box .minibox {
+  border: 1px solid #62a368;
+  width: 140px;
+  height: 140px;
+  background-color: #62a368;
+  color: white;
+  padding: 10px;
+  margin: 10px 0;
+}
+#demo2 .box .flying {
+  position: absolute;
+  left: 190px;
+}
+
+#demo3 .box {
+  position: relative;
+}
+#demo3 .box .minibox {
+  border: 1px solid #861f7d;
+  width: 140px;
+  height: 140px;
+  background-color: #861f7d;
+  color: white;
+  padding: 10px;
+  margin: 10px 0;
+  opacity: 0.4;
+}
+#demo3 .box .flying {
+  position: absolute;
+  top: 430px;
+  left: 350px;
+}
+
+#demo4 .box {
+  position: relative;
+}
+#demo4 .box .minibox {
+  border: 1px solid #861f7d;
+  width: 140px;
+  height: 140px;
+  background-color: #861f7d;
+  color: white;
+  padding: 10px;
+  margin: 10px 0;
+  opacity: 0.5;
+}
+#demo4 .box p {
+  margin-right: 670px;
+  margin-left: -10px;
+}
+#demo4 .box .flying {
+  position: absolute;
+  left: 1250px;
 }/*# sourceMappingURL=style.css.map */
