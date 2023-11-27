@@ -11,11 +11,11 @@ section {
   position: relative;
 }
 #demo .box .minibox {
-  border: 1px solid #3491c0;
+  border: 1px solid #4887d9;
   width: 140px;
   height: 140px;
   color: white;
-  background-color: #3491c0;
+  background-color: #4887d9;
   padding: 10px;
   margin: 10px 0;
 }
@@ -28,10 +28,10 @@ section {
   position: relative;
 }
 #demo2 .box .minibox {
-  border: 1px solid #62a368;
+  border: 1px solid #51927e;
   width: 140px;
   height: 140px;
-  background-color: #62a368;
+  background-color: #51927e;
   color: white;
   padding: 10px;
   margin: 10px 0;
@@ -45,14 +45,13 @@ section {
   position: relative;
 }
 #demo3 .box .minibox {
-  border: 1px solid #861f7d;
+  border: 1px solid #de9cda;
   width: 140px;
   height: 140px;
-  background-color: #861f7d;
+  background-color: #de9cda;
   color: white;
   padding: 10px;
   margin: 10px 0;
-  opacity: 0.4;
 }
 #demo3 .box .flying {
   position: absolute;
@@ -64,14 +63,13 @@ section {
   position: relative;
 }
 #demo4 .box .minibox {
-  border: 1px solid #861f7d;
+  border: 1px solid #de9cda;
   width: 140px;
   height: 140px;
-  background-color: #861f7d;
+  background-color: #de9cda;
   color: white;
   padding: 10px;
   margin: 10px 0;
-  opacity: 0.5;
 }
 #demo4 .box p {
   margin-right: 670px;
