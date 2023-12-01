@@ -24,10 +24,10 @@ section {
   left: 190px;
 }
 
-#demo2 .box {
+#greenbox .box {
   position: relative;
 }
-#demo2 .box .minibox {
+#greenbox .box .minibox {
   border: 1px solid #51927e;
   width: 140px;
   height: 140px;
@@ -36,15 +36,15 @@ section {
   padding: 10px;
   margin: 10px 0;
 }
-#demo2 .box .flying {
+#greenbox .box .flying {
   position: absolute;
   left: 190px;
 }
 
-#demo3 .box {
+#violetbox .box {
   position: relative;
 }
-#demo3 .box .minibox {
+#violetbox .box .minibox {
   border: 1px solid #de9cda;
   width: 140px;
   height: 140px;
@@ -53,16 +53,16 @@ section {
   padding: 10px;
   margin: 10px 0;
 }
-#demo3 .box .flying {
+#violetbox .box .flying {
   position: absolute;
   top: 430px;
   left: 350px;
 }
 
-#demo4 .box {
+#lorembox .box {
   position: relative;
 }
-#demo4 .box .minibox {
+#lorembox .box .minibox {
   border: 1px solid #de9cda;
   width: 140px;
   height: 140px;
@@ -71,11 +71,11 @@ section {
   padding: 10px;
   margin: 10px 0;
 }
-#demo4 .box p {
+#lorembox .box p {
   margin-right: 670px;
   margin-left: -10px;
 }
-#demo4 .box .flying {
+#lorembox .box .flying {
   position: absolute;
   left: 1250px;
 }/*# sourceMappingURL=style.css.map */
