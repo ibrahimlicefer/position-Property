@@ -12,8 +12,8 @@ section {
 }
 #demo .box .minibox {
   border: 1px solid #4887d9;
-  width: 140px;
-  height: 140px;
+  width: 150px;
+  height: 150px;
   color: white;
   background-color: #4887d9;
   padding: 10px;
@@ -21,7 +21,7 @@ section {
 }
 #demo .box .flying {
   position: absolute;
-  left: 190px;
+  left: 200px;
 }
 
 #greenbox .box {
@@ -29,8 +29,8 @@ section {
 }
 #greenbox .box .minibox {
   border: 1px solid #51927e;
-  width: 140px;
-  height: 140px;
+  width: 150px;
+  height: 150px;
   background-color: #51927e;
   color: white;
   padding: 10px;
@@ -38,7 +38,7 @@ section {
 }
 #greenbox .box .flying {
   position: absolute;
-  left: 190px;
+  left: 200px;
 }
 
 #violetbox .box {
@@ -46,8 +46,8 @@ section {
 }
 #violetbox .box .minibox {
   border: 1px solid #de9cda;
-  width: 140px;
-  height: 140px;
+  width: 150px;
+  height: 150px;
   background-color: #de9cda;
   color: white;
   padding: 10px;
@@ -55,7 +55,7 @@ section {
 }
 #violetbox .box .flying {
   position: absolute;
-  top: 430px;
+  top: 460px;
   left: 350px;
 }
 
@@ -64,8 +64,8 @@ section {
 }
 #lorembox .box .minibox {
   border: 1px solid #de9cda;
-  width: 140px;
-  height: 140px;
+  width: 150px;
+  height: 150px;
   background-color: #de9cda;
   color: white;
   padding: 10px;
